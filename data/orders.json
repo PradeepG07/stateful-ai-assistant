@@ -1,0 +1,37 @@
+[
+  {
+    "order_id": 5001,
+    "customer_id": 101,
+    "product": "Laptop",
+    "amount": 75000,
+    "status": "Delivered"
+  },
+  {
+    "order_id": 5002,
+    "customer_id": 101,
+    "product": "Mouse",
+    "amount": 1500,
+    "status": "Delivered"
+  },
+  {
+    "order_id": 5003,
+    "customer_id": 102,
+    "product": "Mobile",
+    "amount": 18000,
+    "status": "Shipped"
+  },
+  {
+    "order_id": 5004,
+    "customer_id": 103,
+    "product": "Laptop",
+    "amount": 95000,
+    "status": "Processing"
+  },
+  {
+    "order_id": 5005,
+    "customer_id": 104,
+    "product": "Headphones",
+    "amount": 5000,
+    "status": "Delivered"
+  }
+]
